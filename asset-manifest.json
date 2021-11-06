@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Good-Bad-Words/static/css/main.c165b62b.chunk.css",
-    "main.js": "/Good-Bad-Words/static/js/main.b73e2367.chunk.js",
-    "main.js.map": "/Good-Bad-Words/static/js/main.b73e2367.chunk.js.map",
+    "main.js": "/Good-Bad-Words/static/js/main.83dae599.chunk.js",
+    "main.js.map": "/Good-Bad-Words/static/js/main.83dae599.chunk.js.map",
     "runtime-main.js": "/Good-Bad-Words/static/js/runtime-main.fd8681c1.js",
     "runtime-main.js.map": "/Good-Bad-Words/static/js/runtime-main.fd8681c1.js.map",
-    "static/js/2.1464ad7d.chunk.js": "/Good-Bad-Words/static/js/2.1464ad7d.chunk.js",
-    "static/js/2.1464ad7d.chunk.js.map": "/Good-Bad-Words/static/js/2.1464ad7d.chunk.js.map",
+    "static/js/2.9fcc5e06.chunk.js": "/Good-Bad-Words/static/js/2.9fcc5e06.chunk.js",
+    "static/js/2.9fcc5e06.chunk.js.map": "/Good-Bad-Words/static/js/2.9fcc5e06.chunk.js.map",
     "static/js/3.89860403.chunk.js": "/Good-Bad-Words/static/js/3.89860403.chunk.js",
     "static/js/3.89860403.chunk.js.map": "/Good-Bad-Words/static/js/3.89860403.chunk.js.map",
     "index.html": "/Good-Bad-Words/index.html",
     "service-worker.js": "/Good-Bad-Words/service-worker.js",
     "service-worker.js.map": "/Good-Bad-Words/service-worker.js.map",
     "static/css/main.c165b62b.chunk.css.map": "/Good-Bad-Words/static/css/main.c165b62b.chunk.css.map",
-    "static/js/2.1464ad7d.chunk.js.LICENSE.txt": "/Good-Bad-Words/static/js/2.1464ad7d.chunk.js.LICENSE.txt"
+    "static/js/2.9fcc5e06.chunk.js.LICENSE.txt": "/Good-Bad-Words/static/js/2.9fcc5e06.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.fd8681c1.js",
-    "static/js/2.1464ad7d.chunk.js",
+    "static/js/2.9fcc5e06.chunk.js",
     "static/css/main.c165b62b.chunk.css",
-    "static/js/main.b73e2367.chunk.js"
+    "static/js/main.83dae599.chunk.js"
   ]
 }
